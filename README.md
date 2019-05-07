@@ -110,3 +110,4 @@ area-china
   3. source\area\china\city\CountySpider.py
   4. source\area\china\city\TownSpider.py (大概运行一个小时左右跑完)
   5. source\area\china\city\VillageSpider.py (这个运行时间较长,晚上跑起第二天来看吧)
+* 如需更新库则可重新运行本程序,一般情况下一年运行一次即可,运行前先备份原有数据库再删除原有库以免数据重复
