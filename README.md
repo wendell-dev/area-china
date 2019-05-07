@@ -109,4 +109,4 @@ area-china
   2. source\area\china\city\CitySpider.py
   3. source\area\china\city\CountySpider.py
   4. source\area\china\city\TownSpider.py (大概运行一个小时左右跑完)
-  5. source\area\china\city\VillageSpider.py (这个运行时间较长)
+  5. source\area\china\city\VillageSpider.py (这个运行时间较长,晚上跑起第二天来看吧)
