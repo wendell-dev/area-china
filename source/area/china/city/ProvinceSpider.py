@@ -27,8 +27,6 @@ def start_requests(domain_url, encoding, headers):
     client = DbUtil.get_client()
     # 选择数据库
     db = client["python"]
-    # 先删除表
-    db['province'].drop()
     provinces = []
     for td in doc('td').items():
         a_tag = td('a')
