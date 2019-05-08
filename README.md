@@ -29,7 +29,7 @@ area-china
 | 二级 | 343 | - |
 | 三级 | 3282 | - |
 | 四级 | 43486 | - |
-| 五级 | ****** | - |
+| 五级 | 662814 | - |
 
 # 数据库
 * 采用MongoDB作为数据库服务，程序运行后自动建立表，简单方便快捷。
@@ -109,5 +109,5 @@ area-china
   2. source\area\china\city\CitySpider.py
   3. source\area\china\city\CountySpider.py
   4. source\area\china\city\TownSpider.py (大概运行一个小时左右跑完)
-  5. source\area\china\city\VillageSpider.py (这个运行时间较长,晚上跑起第二天来看吧)
+  5. source\area\china\city\VillageSpider.py (这个运行时间较长,晚上跑起第二天早上来看一般能够跑完)
 * 如需更新库则可重新运行本程序,一般情况下一年运行一次即可,运行前先备份原有数据库再删除原有库以免数据重复
